@@ -95,3 +95,4 @@ Before opening up a pull-request please read the
 ## Alternatives
 
 Check the resources in [Code Analysis Section at Awesome PHP](https://github.com/ziadoz/awesome-php#code-analysis)
+TESTING
